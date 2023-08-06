@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ritikmanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritikmanta" height="30" width="40" /></a>
+<a href="https://fb.com/ritikmanta" target="blank"><img align="center" src="https://m.facebook.com/profile.php/?id=100092480363806" alt="ritikmanta" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/ritik.manta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik.manta" height="30" width="40" /></a>
 </p>
 
